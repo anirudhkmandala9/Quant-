@@ -1,7 +1,7 @@
 # Empirical Analysis of Equity Factor Strategies Under Market Regimes (Student Research Project)
 
 ## Project Overview
-This repository is a **student research project** that studies whether simple, long-only equity factor strategies deliver superior risk-adjusted returns versus the market (SPY). The project focuses on **Momentum** and **Low Volatility** factors within the **S&P 500** universe and analyzes when these strategies underperform across different market regimes.
+This repository is a **research project** that studies whether simple, long-only equity factor strategies deliver superior risk-adjusted returns versus the market (SPY). The project focuses on **Momentum** and **Low Volatility** factors within the **S&P 500** universe and analyzes when these strategies underperform across different market regimes.
 
 ## Factors and Definitions
 All signals are computed using **daily adjusted close prices** (via `yfinance`). Strategies rebalance **monthly on the first trading day** and hold **equal-weighted** portfolios.
